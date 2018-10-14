@@ -1,4 +1,6 @@
 *Student detail
 *NAME:- Ramit Agarwal
-*CONTACT:-7014403877
+*CONTACT:-9785754747
 *EMAIL:-18ucs144@lnmiit.ac.in
+Github username - Ramitphi
+
